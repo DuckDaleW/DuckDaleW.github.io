@@ -1,0 +1,43 @@
+html {
+  font-size: 10px; /* px means 'pixels': the base font size is now 10 pixels high  */
+  font-family: "Open Sans", sans-serif;
+  background-color: gray;
+}
+
+h1 {
+  font-size: 60px;
+  text-align: center;
+}
+
+p,
+li {
+  font-size: 15px;
+  line-height: 2;
+  letter-spacing: 1px;
+}
+
+body {
+  width: 600px;
+  margin: auto auto;
+  background-color: #ff9500;
+  padding: 20px 20px 20px 20px;
+  border: 10px solid black;
+}
+
+h1 {
+  margin: 0;
+  padding: 20px 0;
+  color: #00539f;
+  text-shadow: 3px 3px 1px black;
+}
+
+img {
+  width: 600px;
+  display: block;
+  margin: 10 auto;
+}
+
+a {
+  display: block;
+  margin: 10 auto;
+}
